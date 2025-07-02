@@ -68,13 +68,14 @@ Com uma interface simples, acessível e inclusiva, o Vizinhando permite que qual
 <h3 align="left">Faça parte da nossa vizinhança!</h3>
 
 <p>
-  <a href="https://linktr.ee/Vizinhando.web?utm_source=linktree_admin_share">
+  <a href="https://linktr.ee/Vizinhando.web?utm_source=linktree_admin_share" target"_blank"
+      >
     <img src="https://img.shields.io/badge/-Linktree-200C80?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF" alt="Linktree" />
   </a>
-  <a href="https://www.linkedin.com/company/vizinhando-plataforma/posts/?feedView=all">
+  <a href="https://www.linkedin.com/company/vizinhando-plataforma/posts/?feedView=all" target"_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-200C80?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/vzinhando/">
+  <a href="https://www.instagram.com/vzinhando/" target"_blank">
     <img src="https://img.shields.io/badge/-Instagram-200C80?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" />
   </a>
 </p>
