@@ -46,7 +46,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 | Frontend | Backend | Banco de Dados | Hospedagem |
 | :------: | :-----: | :------------: | :--------: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40"/> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40"/> |  |  |  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40"/> |  |  | [![Railway](https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=railway&logoColor=white&color=black&labelColor=black)](https://railway.app/) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> |  |  |  |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40"/> |  |  |  |
 
@@ -69,17 +69,16 @@ Essas funcionalidades reforçam nosso compromisso com uma plataforma mais justa,
 ## 📫 Faça Parte da Nossa Vizinhança!
 
 <p>
-  <a href="https://linktr.ee/Vizinhando.web?utm_source=linktree_admin_share" target="_blank">
+  <a href="https://linktr.ee/Vizinhando.web?utm_source=linktree_admin_share" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=FFFFFF" alt="Linktree" />
   </a>
-  <a href="https://www.linkedin.com/company/vizinhando-plataforma/posts/?feedView=all" target="_blank">
+  <a href="https://www.linkedin.com/company/vizinhando-plataforma/posts/?feedView=all" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/vzinhando/" target="_blank">
+  <a href="https://www.instagram.com/vzinhando/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" />
   </a>
 </p>
-
 ---
 
 ## 🙏 Agradecimentos
