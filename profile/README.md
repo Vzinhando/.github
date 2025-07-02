@@ -6,7 +6,7 @@ Seja bem vindo(a) ao github do Vizinhando!
 
 O Vizinhando é uma plataforma web que conecta prestadores de serviços autônomos a moradores de seu próprio bairro. Pensado para valorizar talentos locais e promover a economia colaborativa, o projeto visa resolver a dificuldade que muitos trabalhadores enfrentam para conseguir visibilidade e clientes.
 
-Com uma interface simples, acessível e inclusiva, o Vizinhando permite que qualquer pessoa, mesmo com pouca familiaridade com tecnologia, encontre ou ofereça serviços de forma rápida e segura. O slogan resume bem a proposta: "A sua solução pode estar na rua de cima."
+Com uma interface simples, acessível e inclusiva, o Vizinhando permite que qualquer pessoa, mesmo com pouca familiaridade com tecnologia, encontre ou ofereça serviços de forma rápida e segura. 
 
 ---
 
