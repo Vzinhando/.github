@@ -66,6 +66,17 @@ Essas funcionalidades reforçam nosso compromisso com uma plataforma mais justa,
 
 ---
 
+## 📥 Como usar
+
+1. Clone o repositório:
+git clone https://github.com/SEU_USUARIO/vizinhando.git
+
+2. Instale as dependências:
+npm install
+npm run dev
+
+---
+
 ## 📫 Faça Parte da Nossa Vizinhança!
 
 <p>
@@ -80,14 +91,6 @@ Essas funcionalidades reforçam nosso compromisso com uma plataforma mais justa,
   </a>
 </p>
 ---
-## 📥 Como usar
-
-1. Clone o repositório:
-git clone https://github.com/SEU_USUARIO/vizinhando.git
-
-2. Instale as dependências:
-npm install
-npm run dev
 
 ## 🙏 Agradecimentos
 
