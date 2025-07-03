@@ -73,6 +73,7 @@ git clone https://github.com/SEU_USUARIO/vizinhando.git
 
 2. Instale as dependências:
 npm install
+
 npm run dev
 
 ---
